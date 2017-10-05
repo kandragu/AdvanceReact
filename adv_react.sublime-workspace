@@ -1,0 +1,1456 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ret",
+				"results"
+			],
+			[
+				"g",
+				"get"
+			],
+			[
+				"json",
+				"json_data\tstatement"
+			],
+			[
+				"uni",
+				"unittest\tmodule"
+			],
+			[
+				"imp",
+				"import\tkeyword"
+			],
+			[
+				"s",
+				"siaminse_facade\tmodule"
+			],
+			[
+				"Sup",
+				"SupervisedDAO"
+			],
+			[
+				"mod",
+				"modelInstance\tstatement"
+			],
+			[
+				"pro",
+				"property\tclass"
+			],
+			[
+				"Super",
+				"Supervised_mongo_dao\tmodule"
+			],
+			[
+				"super",
+				"supervised_dao\tmodule"
+			],
+			[
+				"ab",
+				"abstractmethod\tfunction"
+			],
+			[
+				"cv_",
+				"cv_text\tparam"
+			],
+			[
+				"jo",
+				"job_text\tparam"
+			],
+			[
+				"se",
+				"supervised"
+			],
+			[
+				"PROP",
+				"property\tclass"
+			],
+			[
+				"tr",
+				"training_json"
+			],
+			[
+				"tra",
+				"training_json\tparam"
+			],
+			[
+				"cla",
+				"classmethod\tdecorator"
+			],
+			[
+				"My",
+				"MyResponse\tclass"
+			],
+			[
+				"get",
+				"gethostbyname\tfunction"
+			],
+			[
+				"ca",
+				"cache\tstatement"
+			],
+			[
+				"ar",
+				"argv\tinstance"
+			],
+			[
+				"e",
+				"extension\tstatement"
+			],
+			[
+				"ex",
+				"extension_map\tstatement"
+			],
+			[
+				"op",
+				"opener"
+			],
+			[
+				"file",
+				"filename\tparam"
+			],
+			[
+				"sp",
+				"_splitext\tfunction"
+			],
+			[
+				"wr",
+				"write\tfunction"
+			],
+			[
+				"f",
+				"filename\tstatement"
+			],
+			[
+				"__se",
+				"__self__"
+			],
+			[
+				"tag",
+				"tagFormat"
+			],
+			[
+				"te",
+				"test_ci.sh"
+			],
+			[
+				"sa",
+				"sap_logo/"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"vi",
+				"views"
+			],
+			[
+				"c",
+				"controllers/"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"glo",
+				"global\tkeyword"
+			],
+			[
+				"pa",
+				"password_hash\tstatement"
+			],
+			[
+				"user",
+				"username\tstatement"
+			],
+			[
+				"ha",
+				"hash_password\tstatement"
+			],
+			[
+				"hash",
+				"hash_password\tfunction"
+			],
+			[
+				"on",
+				"onViewportChange"
+			],
+			[
+				"reg",
+				"region"
+			],
+			[
+				"js",
+				"jsonData"
+			],
+			[
+				"data",
+				"data-locations.json"
+			],
+			[
+				"rad",
+				"border-radius"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"em",
+				"employmentTypeFilter"
+			],
+			[
+				"filter",
+				"filterWidth"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"emp_type",
+				"emp_type_filer"
+			],
+			[
+				"ref",
+				"refreshEmploymentTypeModel"
+			],
+			[
+				"cu",
+				"customBody"
+			],
+			[
+				"ale",
+				"alel\talert-line"
+			],
+			[
+				"err",
+				"error_values"
+			],
+			[
+				"u",
+				"updateFirebase"
+			],
+			[
+				"AL",
+				"align-items"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"ani",
+				"animateCss"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"de",
+				"debugger"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"new",
+				"new-loc\tlocale"
+			],
+			[
+				"E",
+				"EmailModal"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"com",
+				"components"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/config.js",
+			"settings":
+			{
+				"buffer_size": 93,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n\t\"folders\":\n\t[\n\t\t{\n\t\t\t\"path\": \"/Users/i304297/work/misc/learn/react/advanced_react\"\n\t\t}\n\t]\n}\n",
+			"file": "adv_react.sublime-project",
+			"file_size": 95,
+			"file_write_time": 131516582870000000,
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/index.ejs",
+			"settings":
+			{
+				"buffer_size": 442,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 185.0,
+		"last_filter": "beak",
+		"selected_items":
+		[
+			[
+				"beak",
+				"Python Breakpoints: Toggle"
+			],
+			[
+				"bra",
+				"Python Breakpoints: Clear All"
+			],
+			[
+				"ssyml",
+				"Set Syntax: YAML"
+			],
+			[
+				"bre",
+				"Python Breakpoints: Toggle"
+			],
+			[
+				"ya",
+				"Set Syntax: YAML"
+			],
+			[
+				"ss",
+				"Set Syntax: JSON"
+			],
+			[
+				"break",
+				"Python Breakpoints: Toggle"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"des",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"Y",
+				"Set Syntax: YAML"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"clear",
+				"Python Breakpoints: Clear All"
+			],
+			[
+				"pyt",
+				"Python Breakpoints: Goto"
+			],
+			[
+				"Package",
+				"Package Control: List Packages"
+			],
+			[
+				":sss",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				":ss",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"gr",
+				"Set Syntax: Groovy"
+			],
+			[
+				"sss",
+				"Set Syntax: JSON"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"create",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"crea",
+				"Origami: Create Pane with File Below"
+			],
+			[
+				"fouc",
+				"Origami: Focus on Pane on the Right"
+			],
+			[
+				"dest",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"move",
+				"Origami: Destroy Pane Above"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"zoo",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"pck ins",
+				"Package Control: Install Package"
+			],
+			[
+				"creat",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"destr",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"de",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"snippet",
+				"Snippet: translate-I"
+			],
+			[
+				"Snippet: ",
+				"Snippet: React: class component"
+			],
+			[
+				"foucs t",
+				"Origami: Focus on Pane on the Left"
+			],
+			[
+				"create right",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"unf",
+				"Code Folding: Unfold All"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 482.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/i304297/work/misc/learn/react/advanced_react/src/.eslintrc.js",
+		"/Users/i304297/work/misc/learn/react/advanced_react/src/adv_react.sublime-workspace",
+		"/Users/i304297/work/misc/learn/react/advanced_react/src/.gitignore",
+		"/Users/i304297/work/misc/learn/react/advanced_react/src/yarn.lock",
+		"/Users/i304297/work/misc/learn/react/advanced_react/src/lib/server.js",
+		"/Users/i304297/Library/Application Support/Sublime Text 3/Packages/User/ZenTabs.sublime-settings",
+		"/Users/i304297/work/development/Projects/ML/CV/JAM maintainance",
+		"/Users/i304297/work/misc/learn/react/advanced_react/git_source/advanced-react/views/index.ejs",
+		"/Users/i304297/work/misc/learn/react/advanced_react/src/package.json",
+		"/Users/i304297/work/misc/learn/react/advanced_react/git_source/advanced-react/lib/config.js",
+		"/Users/i304297/work/misc/learn/loadtest/k6/k6-recommender-api-concurrent.js",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderApp/cf_deploy/release_dir/cvra/app/rpc_client.py",
+		"/Users/i304297/work/misc/learn/python/python_parallel/Section4/asyncio_Task.py",
+		"/Users/i304297/work/misc/learn/loadtest/k6/k6-recommender-api-script.js",
+		"/Users/i304297/work/misc/learn/python/flasgger/swagger.yaml",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/sep17/sample.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderApp/cf_deploy/deploy.py",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/sep17/static_html/src/cv_matcher_api_doc.html",
+		"/Users/i304297/work/misc/learn/python/unittest/test_phonebook.py",
+		"/Users/i304297/work/misc/peronal/Terms.txt",
+		"/Users/i304297/work/misc/learn/python/unittest/phonebook.oy",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderApp/src/cvra/app/util_methods.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderApp/src/cvra/app/facade/siaminse_facade.py",
+		"/Users/i304297/.bash_profile",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderApp/src/cvra/app/facade/one_cv_result_facade.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderApp/src/cvra/app/webapp.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderApp/src/cvra/app/facade/abs_facade.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/src/cvrs/database/base_db.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderApp/src/cvra/app/rpc_client.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderApp/src/cvra/app/facade/wmd_facade.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderApp/src/cvra/app/model/matchcvtojob_request.py",
+		"/Users/i304297/Downloads/size.json",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/src/cvrs/database/supervised_dao.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/src/cvrs/database/Supervised_mongo_dao.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/src/cvrs/matcher/matcher_base.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/CV-Common/src/cvlib/util/pickle_util.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/src/cvrs/service/job_matcher.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/src/cvrs/matcher/matcher_service.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/src/cvrs/matcher/import_models.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/src/cvrs/service/supervised_document_matcher.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/environment.yml",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/src/cvrs/service/document_matcher.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/src/cvrs/service/_old_supervised_document_matcher.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/CV-Common/src/cvlib/util/cv_logger.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/cvml_backend/src/cvrml/app/pipelines/apiDev.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/src/cvrs/service/extract_keyword_from_doc.py",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/july2017/chisel.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/july2017/commands.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/src/cvml_backend/test/cvrml/ml_models/cv_recommender_redcom/test_model_training.py",
+		"/Users/i304297/work/development/Projects/I14p/bootcamp/Value proposition Ken Singer",
+		"/Users/i304297/work/misc/learn/python/flask/flasgger_demo.py",
+		"/Users/i304297/work/misc/learn/python/flask/flasgger/environment.yml",
+		"/Users/i304297/work/misc/learn/python/flask/flasgger/flasgger_demo.py",
+		"/Users/i304297/work/misc/learn/python/flasgger/environment.yml",
+		"/Users/i304297/work/development/Projects/ML/CV/src/cvml_backend/src/cvrml/ml_models/supervised_matcher/__init__.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-AnalyzerService/scripts/run/server_run_service.sh",
+		"/Users/i304297/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/os.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/CV-Common/src/cvlib/util/pdf_transformer.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/cf_deploy/release_dir/cvlib/util/pdf_transformer.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-AnalyzerService/src/cva/service/__init__.py",
+		"/Users/i304297/Downloads/python-beyond-basics/03-beyond-basic-functions/beyond-basic-functions-exercise-files/resolver1/resolver.py",
+		"/Users/i304297/work/misc/learn/python/reader/compressed/gzipped.py",
+		"/.gitignore",
+		"/Users/i304297/work/misc/learn/python/google/google_search.py",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/jenkin/auto_tagging.sh",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/jenkin/SERVICE_NAME",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderApp/version.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/src/date_extractor_service/version.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/src/file-parsing-service/version.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-AnalyzerService/version.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderApp/test_ci.sh",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-AnalyzerService/test_ci.sh",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-AnalyzerService/docker-CI.sh",
+		"/Users/i304297/Downloads/machine-learning-ex1/ex1/normalEqn.m",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/environment_test.yml",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/Dockerfile",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-AnalyzerService/Dockerfile",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/test-requirements.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/requirements.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/.dockerigno",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/.dockerignor",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/.dockerignore",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/docker-compose.yml",
+		"/Users/i304297/work/development/Projects/ML/CV/src/file-parsing-service/Dockerfile",
+		"/Users/i304297/work/development/Projects/ML/CV/src/date_extractor_service/Dockerfile",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/dev-ops/Docker-steps.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-Recommender/data-services/src/cvr/__init__.py",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderApp/start_service.sh",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderService/cf_deploy/release_dir/cvlib/util/general_util.py",
+		"/Users/i304297/work/misc/learn/java_microservices/helloworld.py",
+		"/Users/i304297/work/misc/learn/python/google/environment.yml",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/dev-ops/external_demo_setup/CF/history.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/dev-ops/external_demo_setup/CF.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/mongodb.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/loadtest/dev-ops.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-RecommenderApp/profile_results/POST.cvr.matchcvtojob.001207ms.1495597920.prof",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-Recommender/dev-ops/load-test/src/test/scala/cvr/CvMatcherGetRootPerfTest.scala",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-Recommender/dev-ops/load-test/src/test/scala/cvr/JobMatcherGetRootPerfTest.scala",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/dev-ops/external_demo_setup/delme-demos.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/dev-ops/external_demo_setup/CF/CF.TXT",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-Recommender/recruit2.0/app/scripts/controllers/jobList.js",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-Recommender/recruit2.0/app/scripts/factories/jobUtility.js",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/dev-ops.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/comcast/data.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-Recommender/run_unit_tests.sh",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-Recommender/job-seek-2.0/app/index.html",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-Recommender/job-seek-2.0/dist/index.html",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/monsoon-z4.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-Recommender/requirements.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-Recommender/environment.yml",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/loadtest/cf_top.sh",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/dev-ops/devOps.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/dev-ops/external_demo_setup/MobyDock/deploy/nginx/configs/nginx.conf",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/dev-ops/Tasks.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/dev-ops/external_demo_setup/MobyDock/deploy/git/post-receive/nginx",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/loadtest/report.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-Recommender/.git/index",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-Recommender/mlp-deploy/manifest_nginx.yml",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-AnalyzerService/environment_win.yml",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/loadtest/CSP_test/CV-AnalyzerService-1.0.0/setup.cfg",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-Recommender/recruit2.0/app/index.html",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/loadtest/temp.postman_collection.json",
+		"/Users/i304297/work/development/Projects/ML/CV/notes/install.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/notes/microservices.txt",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-Recommender/dev-ops/load-test/src/test/scala/cvr/ResumeMatchingAPITest.scala",
+		"/Users/i304297/work/development/Projects/ML/CV/tasks/korea/기관신청서_1삭제.jp g",
+		"/Users/i304297/work/development/Projects/ML/CV/src/CV-Recommender/dev-ops/load-test/src/test/scala/cvr/RecordedSimulation.scala"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 188.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 93,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "adv_react.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/index.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								442,
+								442
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 172.0
+	},
+	"pinned_build_system": "",
+	"project": "adv_react.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"we",
+				"src/cvra/app/webapp.py"
+			],
+			[
+				"web",
+				"src/cvra/app/webapp.py"
+			],
+			[
+				"one",
+				"src/cvra/app/facade/one_cv_result_facade.py"
+			],
+			[
+				"ma",
+				"manifest.yml"
+			],
+			[
+				"match",
+				"src/cvra/app/common/matchcvtojob.yml"
+			],
+			[
+				"index2",
+				"index2.yml"
+			],
+			[
+				".yml",
+				"src/cvra/app/common/matchcvtojob.yml"
+			],
+			[
+				"util",
+				"src/cvra/app/util_methods.py"
+			],
+			[
+				"weba",
+				"src/cvra/app/webapp.py"
+			],
+			[
+				"super",
+				"src/cvrml/ml_models/supervised_matcher/supervised_document_matcher.py"
+			],
+			[
+				"dao",
+				"src/cvrs/database/supervised_dao.py"
+			],
+			[
+				"tra",
+				"src/cvrs/model/train.py"
+			],
+			[
+				"matc",
+				"src/cvrs/matcher/matcher_service.py"
+			],
+			[
+				"path",
+				"CV-Common/src/cvlib/util/path_specifier.py"
+			],
+			[
+				"cvmatcher",
+				"src/cvrs/matcher/matcher_base.py"
+			],
+			[
+				"envir",
+				"environment.yml"
+			],
+			[
+				"ser",
+				"src/cvrs/matcher/matcher_service.py"
+			],
+			[
+				"matcher",
+				"src/cvrs/matcher/matcher_base.py"
+			],
+			[
+				"cv_logg",
+				"CV-Common/src/cvlib/util/cv_logger.py"
+			],
+			[
+				"suoer",
+				"src/cvrs/service/supervised_document_matcher.py"
+			],
+			[
+				"service",
+				"src/cvrs/matcher/matcher_service.py"
+			],
+			[
+				"docume",
+				"src/cvrs/service/document_matcher.py"
+			],
+			[
+				"ut",
+				"src/cvra/app/util_methods.py"
+			],
+			[
+				"rpc",
+				"src/cvra/app/rpc_client.py"
+			],
+			[
+				"train",
+				"src/cvra/app/train_do.py"
+			],
+			[
+				"fac",
+				"src/cvra/app/facade/wmd_facade.py"
+			],
+			[
+				"api",
+				"src/cvrml/app/pipelines/apiDev.py"
+			],
+			[
+				"cvma",
+				"src/cvrml/ml_models/cv_matcher.py"
+			],
+			[
+				"supervise",
+				"src/cvrml/ml_models/supervised_matcher/supervised_document_matcher.py"
+			],
+			[
+				"cv_mat",
+				"src/cvrml/ml_models/cv_matcher.py"
+			],
+			[
+				"ind",
+				"index.yaml"
+			],
+			[
+				"candidate_job_recommendation.py",
+				"data-services/src/cvr/controller/candidate_job_recommendation.py"
+			],
+			[
+				"rpc_ser",
+				"data-services/src/cvr/service/rpc_service.py"
+			],
+			[
+				"job_rec",
+				"data-services/src/cvr/service/job_recommendation_service.py"
+			],
+			[
+				"request_",
+				"data-services/src/cvr/util/request_util.py"
+			],
+			[
+				"docu",
+				"src/cvrs/service/document_matcher.py"
+			],
+			[
+				"data",
+				"ex1/ex1data1.txt"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"app.js",
+				"app/scripts/app.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"alert",
+				"app/scripts/services/alertModalService.js"
+			],
+			[
+				"jobut",
+				"app/scripts/factories/jobUtility.js"
+			],
+			[
+				"jobli",
+				"app/scripts/controllers/jobList.js"
+			],
+			[
+				"view/login",
+				"recruit2.0/app/views/login.html"
+			],
+			[
+				"directive/login",
+				"recruit2.0/app/scripts/directives/loginForm.js"
+			],
+			[
+				"index.htm",
+				"recruit2.0/app/index.html"
+			],
+			[
+				"run",
+				"run_unit_tests.sh"
+			],
+			[
+				"index.html",
+				"job-seek-2.0/app/index.html"
+			],
+			[
+				"index",
+				"job-seek-2.0/dist/index.html"
+			],
+			[
+				"ngi",
+				"git/post-receive/nginx"
+			],
+			[
+				"conf",
+				"deploy/nginx/configs/nginx.conf"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"jobseek/app/id",
+				"job-seek-2.0/app/index.html"
+			],
+			[
+				"app/ind",
+				"recruit2.0/app/index.html"
+			],
+			[
+				"jd1",
+				"ml-backend/test/data/jd1.txt"
+			],
+			[
+				"app",
+				"app/scripts/app.js"
+			],
+			[
+				"0025",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0025_request.txt"
+			],
+			[
+				"webapp",
+				"data-services/src/cvr/app/webapp.py"
+			],
+			[
+				"007",
+				"load-test/src/test/resources/UploadCVPerfTest_0007_request.txt"
+			],
+			[
+				"027",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0027_request.txt"
+			],
+			[
+				"026",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0026_request.txt"
+			],
+			[
+				"025",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0025_request.txt"
+			],
+			[
+				"024",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0024_request.txt"
+			],
+			[
+				"023",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0023_request.txt"
+			],
+			[
+				"022",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0022_request.txt"
+			],
+			[
+				"021",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0021_request.txt"
+			],
+			[
+				"020",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0020_request.txt"
+			],
+			[
+				"0019",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0019_request.txt"
+			],
+			[
+				"0018",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0018_request.txt"
+			],
+			[
+				"0016",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0016_request.txt"
+			],
+			[
+				"0015",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0015_request.txt"
+			],
+			[
+				"0014",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0014_request.txt"
+			],
+			[
+				"0013",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0013_request.txt"
+			],
+			[
+				"012",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0012_request.txt"
+			],
+			[
+				"011",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0011_request.txt"
+			],
+			[
+				"010",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0010_request.txt"
+			],
+			[
+				"009",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0009_request.txt"
+			],
+			[
+				"008",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0008_request.txt"
+			],
+			[
+				"006",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0006_request.txt"
+			],
+			[
+				"0003",
+				"load-test/src/test/resources/data/FullUserInteractionPerfTestWithPagination_0003_request.txt"
+			],
+			[
+				"searchbar",
+				"app/scripts/directives/cvSearchBar.js"
+			],
+			[
+				"comcast",
+				"app/views/jobs-list-comcast.html"
+			],
+			[
+				"cvsea",
+				"app/scripts/directives/cvSearchBar.js"
+			],
+			[
+				"scrip",
+				"script.js"
+			],
+			[
+				"comca",
+				"app/views/jobs-list-comcast.html"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"main",
+				"app/styles/main.css"
+			],
+			[
+				"job-li",
+				"app/views/jobs-list.html"
+			],
+			[
+				"jobuti",
+				"CV-Recommender/recruit2.0/app/scripts/factories/jobUtility.js"
+			],
+			[
+				"proper",
+				"CV-Recommender/recruit2.0/app/properties.json"
+			],
+			[
+				"jobma",
+				"job-seek-2.0/app/scripts/controllers/jobMatcher.js"
+			],
+			[
+				"login",
+				"recruit2.0/app/views/login.html"
+			],
+			[
+				"job-ma",
+				"job-seek-2.0/app/views/job-matcher.html"
+			],
+			[
+				"main.css",
+				"job-seek-2.0/app/styles/main.css"
+			],
+			[
+				"jobmatc",
+				"job-seek-2.0/app/scripts/controllers/jobMatcher.js"
+			],
+			[
+				"request_util",
+				"data-services/src/cvr/util/request_util.py"
+			],
+			[
+				"job",
+				"app/views/job.html"
+			],
+			[
+				"view",
+				"app/styles/viewer.css"
+			],
+			[
+				"angularjs-",
+				"bower_components/angular-pdfjs-viewer/dist/angular-pdfjs-viewer.js"
+			],
+			[
+				"bow",
+				"bower.json"
+			],
+			[
+				"pdf",
+				"bower_components/pdf.js-viewer/pdf.js"
+			],
+			[
+				"docker",
+				"CVR-DEVOPS/docker-compose.yml"
+			],
+			[
+				"nav",
+				"app/scripts/controllers/navbar.js"
+			],
+			[
+				"usera",
+				"recruit2.0/app/scripts/factories/userAuthenticationUtility.js"
+			],
+			[
+				"login.",
+				"recruit2.0/node_modules/bower/lib/commands/login.js"
+			],
+			[
+				"loca",
+				"app/resources/locale-en_US.json"
+			],
+			[
+				"jobmat",
+				"app/scripts/controllers/jobMatcher.js"
+			],
+			[
+				"consta",
+				"app/scripts/constants/constants.js"
+			],
+			[
+				"main.",
+				"app/styles/main.css"
+			],
+			[
+				"job.js",
+				"app/scripts/controllers/job.js"
+			],
+			[
+				"cvscr",
+				"app/scripts/directives/cvSCroll.js"
+			],
+			[
+				"jobutility",
+				"app/scripts/factories/jobUtility.js"
+			],
+			[
+				"job-list",
+				"app/views/jobs-list-comcast.html"
+			],
+			[
+				"job-list-co",
+				"app/views/jobs-list-comcast.html"
+			],
+			[
+				"home",
+				"pluralsight/elite-schedule-admin/src/app/home/home.html"
+			],
+			[
+				"mult",
+				"bjornd-jvectormap-a0e5497/src/multimap.js"
+			],
+			[
+				"realmobj",
+				"ReactComponent/src/db/realm/realmObject.js"
+			],
+			[
+				"hoe",
+				"src/app/home/home.html"
+			],
+			[
+				"homectr",
+				"src/app/home/home.controller.js"
+			],
+			[
+				"jobre",
+				"app/scripts/controllers/jobRecommendation.js"
+			],
+			[
+				"jobdet",
+				"app/scripts/controllers/jobDetailsInstance.js"
+			],
+			[
+				"elite-api",
+				"src/app/services/elite-api.service.js"
+			],
+			[
+				"jobrec",
+				"app/scripts/controllers/jobRecommendation.js"
+			],
+			[
+				"job-rec",
+				"app/views/job-recommendation.html"
+			],
+			[
+				"job-reco",
+				"app/views/job-recommendation.html"
+			],
+			[
+				"job-",
+				"app/views/job-matcher.html"
+			],
+			[
+				"locale",
+				"app/resources/locale-en_US.json"
+			],
+			[
+				"job-m",
+				"app/views/job-matcher.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "checkIf",
+		"selected_items":
+		[
+			[
+				"checkIf",
+				"checkIfAnyOneChecked"
+			],
+			[
+				"filter-close-btn",
+				"filter-close-btn"
+			],
+			[
+				"close",
+				"close"
+			],
+			[
+				"location-filter",
+				"location-filter"
+			],
+			[
+				"auto-selected-filter",
+				"auto-selected-filter"
+			],
+			[
+				"translateProvider",
+				"$translateSanitizationProvider"
+			],
+			[
+				"job-match",
+				"job-matcher-control"
+			]
+		],
+		"width": 1070.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
